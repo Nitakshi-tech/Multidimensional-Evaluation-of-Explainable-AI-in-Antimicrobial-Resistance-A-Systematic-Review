@@ -224,14 +224,21 @@ If you find this work, codebase, or findings useful in your research, please cit
 ### Plain Text
 Nitakshi Jhajjadiya and Sarika Jain. "Multidimensional Evaluation of Explainable AI in Antimicrobial Resistance: A Systematic Review." (2026).
 
+## Citation
+
+If you find this work, codebase, or findings useful in your research, please cite our paper:
+
+### Plain Text
+Nitakshi Jhajjadiya and Sarika Jain. "Multidimensional Evaluation of Explainable AI in Antimicrobial Resistance: A Systematic Review." (2026).
+
 ### BibTeX
-```bibtex
+```bibtex 
 @article{jhajjadiya2026multidimensional,
   title={Multidimensional Evaluation of Explainable AI in Antimicrobial Resistance: A Systematic Review},
   author={Jhajjadiya, Nitakshi and Jain, Sarika},
   year={2026}
 }
-
+```
 
 ## File Structure
 
