@@ -217,6 +217,21 @@ The repository is intended to support:
 The files should be considered together when reproducing or auditing the synthesis.
 
 
+## Citation
+
+If you find this work, codebase, or findings useful in your research, please cite our paper:
+
+### Plain Text
+Nitakshi Jhajjadiya and Sarika Jain. "Multidimensional Evaluation of Explainable AI in Antimicrobial Resistance: A Systematic Review." (2026).
+
+### BibTeX
+```bibtex
+@article{jhajjadiya2026multidimensional,
+  title={Multidimensional Evaluation of Explainable AI in Antimicrobial Resistance: A Systematic Review},
+  author={Jhajjadiya, Nitakshi and Jain, Sarika},
+  year={2026}
+}
+
 
 ## File Structure
 
@@ -227,3 +242,5 @@ The files should be considered together when reproducing or auditing the synthes
 ├── Review_Screening.csv
 ├── PRIMARY SYNTHESIS TABLE.xlsx
 └── TABLE1 CLASSIFICATION CRITERIA.pdf
+
+
